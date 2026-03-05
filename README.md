@@ -65,5 +65,3 @@ Aakanksha
 GitHub:
 https://github.com/akanshi2007-droid
 
-## License
-This project is open source and available under the MIT License.
