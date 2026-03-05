@@ -35,19 +35,6 @@ Tools:
 * GitHub
 * Vercel (Deployment)
 
-## Project Structure
-src/
-│
-├── components/
-│   ├── Board.js
-│   ├── Column.js
-│   ├── TaskCard.js
-│   └── TaskModal.js
-│
-├── App.js
-├── App.css
-└── index.js
-
 ## How It Works
 1. Users can add tasks using the **Add Task modal**.
 2. Tasks appear in the **To Do column**.
