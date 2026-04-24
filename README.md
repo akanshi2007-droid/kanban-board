@@ -36,14 +36,14 @@ Tools:
 * Vercel (Deployment)
 
 ## How It Works
-1. Users can add tasks using the **Add Task modal**.
-2. Tasks appear in the **To Do column**.
-3. Tasks can be **dragged and dropped** into:
-
+1. Users can add tasks using the Add Task modal.
+2. Tasks appear in the To Do column.
+3. Tasks can be dragged and dropped into:
+4. 
    * In Progress
    * Done
-4. Users can **search tasks** using the search bar.
-5. Tasks can be **deleted** when completed.
+5. Users can **search tasks** using the search bar.
+6. Tasks can be **deleted** when completed.
    
 ## Deployment
 This project is deployed using **Vercel**.
