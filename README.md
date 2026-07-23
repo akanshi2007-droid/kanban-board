@@ -52,16 +52,11 @@ Steps used for deployment:
 2. Import repository into Vercel
 3. Deploy automatically
 
-
 ## Future Improvements
 * Task due dates
 * User authentication
 * Multiple boards
 * Team collaboration
 
-## Author
-Aakanksha
 
-GitHub:
-https://github.com/akanshi2007-droid
 
